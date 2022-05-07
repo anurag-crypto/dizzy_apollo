@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943863013014",
+    "project_id": "facerg-b04a0",
+    "storage_bucket": "facerg-b04a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943863013014:android:6a2c22a2f615b7f839ecb7",
+        "android_client_info": {
+          "package_name": "com.example.facerecognization"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943863013014-tobs7nng17oj3ifa67qfhbr0ic7oqm3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyQkuZSH90cnrx9HAuojNpHrMZ_w4slHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943863013014-tobs7nng17oj3ifa67qfhbr0ic7oqm3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
