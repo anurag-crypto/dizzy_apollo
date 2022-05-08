@@ -17,6 +17,8 @@ Develop an app which is face detecting,
 ![sign_up](https://user-images.githubusercontent.com/79051562/167241755-8c72146f-cc8d-4b87-96e5-4953951628b6.png)
 <h2>Sign in page</h2>
 ![sign_in](https://user-images.githubusercontent.com/79051562/167241774-c0a39fb1-f843-4aaa-b052-09aafe95f83d.png)
+<h2>Home</h2>
+![home](https://user-images.githubusercontent.com/79051562/167292138-0634ac47-61e7-4333-82dc-26e9d8527b2f.png)
 
 
 
